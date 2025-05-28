@@ -6,6 +6,7 @@ import matplotlib.pyplot as plt
 
 df = pd.read_csv(r"C:\AIML\titanic.csv.csv")
 
+
 print(df.head())
 print(df.info())        
 print(df.describe())    
