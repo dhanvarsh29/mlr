@@ -1,1 +1,1 @@
-df = pd.read_csv("C:\AIML\titanic.csv.csv")
+r"C:\AIML\titanic.csv.csv"
